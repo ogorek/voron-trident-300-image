@@ -2,6 +2,7 @@
 Voron Trident 300 Raspberry Pi image
 
 Optimised for this configuration
+raspberry 4
 Voron 300x300
 LDO kit
 BTT SFS version 2.0
@@ -26,3 +27,4 @@ Attached mounting plate for sfs v2 3mf format.
 
 Update apps, delete, add features like octoeverywhre using this command
 /home/adam/kiauh/kiauh.sh
+
