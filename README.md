@@ -11,6 +11,8 @@ BTT Octopus 1.0/1.1
 
 Download always actual link from
 
+https://drive.google.com/file/d/1dkrawz9RilvsQMc3R8sTi7SP6nbCeiaG/view?usp=drive_link
+
 Write to sd card with balenaetcher version 1.18.4, version 1.19+ may produce errors codes before writing.
 By default, will try to connect to wifi ssid adam password raspberry
 No wifi = ethernet dhcp
