@@ -28,5 +28,5 @@ Attached mounting plate for sfs v2 3mf format.
 Update apps, delete, add features like octoeverywhre using this command
 /home/adam/kiauh/kiauh.sh
 
-in octoprint add to start code SFS=1 or SFS=0 to choose if to use sensor on first layer
+in orcaslicer add to start code SFS=1 or SFS=0 to choose if to use sensor on first layer
 
