@@ -25,6 +25,7 @@ default interface http://voron.local/ if You prefer fluidd http://voron.local:81
 
 BTT SFS v2 connect to default ports on octopus like in manual.
 Attached mounting plate for sfs v2 3mf format.
+When done with testing, switch 2 lines in SFS.cfg from False to True to enable automatic pause when runout is detected.
 
 Update apps, delete, add features like octoeverywhre using this command
 /home/adam/kiauh/kiauh.sh
