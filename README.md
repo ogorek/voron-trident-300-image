@@ -28,5 +28,9 @@ Attached mounting plate for sfs v2 3mf format.
 Update apps, delete, add features like octoeverywhre using this command
 /home/adam/kiauh/kiauh.sh
 
-in orcaslicer add to start code SFS=1 or SFS=0 to choose if to use sensor on first layer
+in orcaslicer add to machine start g-code SFS=1 or SFS=0 to choose if to use sensor on first layer
+should look like this
+M190 S[bed_temperature_initial_layer_single]
+M109 S[nozzle_temperature_initial_layer]
+PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] SFS=0
 
