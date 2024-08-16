@@ -5,6 +5,7 @@ Optimised for this configuration
 raspberry 4
 Voron 300x300
 LDO kit
+Phaetus Rapido HF
 BTT SFS version 2.0
 Beacon
 BTT Octopus 1.0/1.1
