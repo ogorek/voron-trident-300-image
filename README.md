@@ -38,6 +38,8 @@ PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_ini
 
 also in layer change g-code need to add this
 ;AFTER_LAYER_CHANGE
+
 new_layer NUM={layer_num}
+
 ;[layer_z]
 
